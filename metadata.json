@@ -1,0 +1,6 @@
+{
+  "name": "Finora Mobile - Manajemen Keuangan & Stok Mobil",
+  "description": "Aplikasi mobile APK untuk Finora LM Finance dengan dukungan Tailscale IP dinamis, sesi login tersimpan permanen, dan pemisahan hak akses Super Admin serta Pengguna biasa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
